@@ -9,9 +9,12 @@
 <body>
 <h1>index.jsp</h1>
 test    
+1.
 B-edit<br>
+2.
 B-edit<br>
+3.
 B-edit<br>
-    
+테스크 끝 
 </body>
 </html>
