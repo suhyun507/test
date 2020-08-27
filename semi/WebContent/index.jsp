@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>index.jsp</h1>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX  ㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌ
 test    
 1.
 B-edit<br>
