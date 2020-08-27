@@ -8,8 +8,8 @@
 </head>
 <body>
 <h1>index.jsp</h1>
-XXXXXXXXXXXXXXXXXXXXXX  ㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌㅌ
-test    
+test1    
+test2
 1.
 B-edit<br>
 2.
@@ -17,6 +17,6 @@ B-edit<br>
 3.
 B-edit<br>
 테스크 끝 
-ㅁㅁㅁㅁ
+
 </body>
 </html>
